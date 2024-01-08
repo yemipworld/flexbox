@@ -1,0 +1,34 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    background-color:black;
+    color: white;
+    gap: 2rem;
+    justify-items: center;
+    text-align: justify;
+}
+
+.first{
+    width: 20rem;
+}
+
+.second{
+    width: 20rem;
+}
+
+.third{
+    width: 20rem;
+}
+
+.fourth{
+    width: 20rem;
+}
+
+.fifth{
+    width: 20rem;
+}
+
+.sixth{
+    width: 20rem;
+}
